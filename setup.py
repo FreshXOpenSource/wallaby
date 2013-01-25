@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 setup(name='wallaby',
-      version='0.1.1',
+      version='0.1.2',
       url='https://github.com/FreshXOpenSource',
       author='FreshX GbR',
       author_email='wallaby@freshx.de',
