@@ -1,4 +1,4 @@
 wallaby
 =======
 
-Wallaby meta package. 
+Dummy package for easy installation of all dependencies.
